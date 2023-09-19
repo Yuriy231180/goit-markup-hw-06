@@ -1,0 +1,51 @@
+.link {
+    text-decoration: none;
+  }
+  
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  p {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  
+  ul,
+  li {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 0;
+  }
+  
+  img {
+    display: block;
+  }
+  
+  .list {
+    list-style-type: none;
+  }
+  
+  .review-form-input {
+    outline: transparent;
+  }
+  
+  .review-form-input:focus {
+    border: 1px solid var(--IRIS, #4d5ae5);
+  }
+  
+  .review-form-input:focus + .review-form-field-icon {
+    fill: #4d5ae5;
+  }
+  
+  button {
+    cursor: pointer;
+  }
+  
+  .body {
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    background-color: #ffffff;
+  }
