@@ -5,7 +5,7 @@ padding-right: 16px;
 
 @media screen and (min-width: 320px) {
   .container {
-    width: 320px; 
+    width: 100%; 
     margin-left: auto;
     margin-right: auto;
   }
@@ -13,13 +13,13 @@ padding-right: 16px;
 
  @media screen and (min-width: 768px) {
   .container {
-    width: 768px; 
+    width: 100%; 
     }
  }
 
  @media screen and (min-width: 1158px) {
   .container {
-    width: 1158px; 
+    width: 100%; 
     }
  }
 
