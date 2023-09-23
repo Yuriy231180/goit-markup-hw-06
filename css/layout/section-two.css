@@ -47,9 +47,11 @@
 
   .section-two-list {
     display: flex;
+    flex-direction: row;
     flex-wrap: wrap;
     column-gap: 24px;
     row-gap: 72px;
+    justify-content: center;
   }
 
   .section-two-list {
