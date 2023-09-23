@@ -6,6 +6,7 @@
 
 /* section HERO styles*/
 
+/*
 .section-one {
   background: var(--navyblue, #2e2f42);
   padding: 188px 0;
@@ -31,7 +32,7 @@
   text-align: center;
   font-size: 56px;
   font-weight: 700;
-  line-height: 1.07; /* 107.143% */
+  line-height: 1.07; 
   letter-spacing: 0.02em;
   padding-bottom: 48px;
   margin-right: auto;
@@ -44,23 +45,23 @@
   margin-right: auto;
   background: var(--iris, #4d5ae5);
   color: var(--white, #fff);
-  /* Button Text */
+  
   font-family: "Roboto", sans-serif;
   font-size: 16px;
   font-weight: 500;
-  line-height: 1.5; /* 150% */
+  line-height: 1.5; 
   letter-spacing: 0.04em;
   padding: 16px 32px;
   border-radius: 4px;
   border: none;
   min-width: 169px;
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
-}
+} */
 
-/* section two styles*/ 
+/* =====section two styles*/ 
 
 
-
+/*
 .section-two-list {
   display: flex;
   gap: 24px;
@@ -93,7 +94,7 @@
   margin-bottom: 8px;
   font-size: 20px;
   font-weight: 500;
-  line-height: 1.2; /* 120% */
+  line-height: 1.2; 
   letter-spacing: 0.02em;
 }
 
@@ -102,9 +103,9 @@
 
   font-size: 16px;
   font-weight: 400;
-  line-height: 1.5; /* 150% */
+  line-height: 1.5; 
   letter-spacing: 0.02em;
-}
+}*/
 
 /* Section three styles*/
 
