@@ -156,8 +156,10 @@
     padding-bottom: 96px;
   }
 
-  .footer-container {
-    max-width: 584рх;
+  @media screen and (min-width: 768px) and (max-width: 1157px) {
+    .footer-container {
+      max-width: 584px;
+    }
   }
 
   .footer-logotype {
@@ -215,6 +217,7 @@
     display: flex;
     gap: 72px 24px;
     flex-wrap: wrap;
+    margin-left: 108px;
   }
 
   .footer-social {
