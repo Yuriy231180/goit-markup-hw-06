@@ -133,6 +133,7 @@
   font-size: 18px;
   font-weight: 700;
   line-height: 1.17;
+  padding: 24px 0;
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
@@ -161,6 +162,10 @@
     display: none;
   }
 
+  .contacts {
+  font-style: normal;
+  }
+
   .page-header-container {
     display: flex;
     justify-content: space-between;
@@ -186,8 +191,7 @@
   }
 
   .page-header {
-    padding-top: 16px;
-    padding-bottom: 16px;
+    
     box-shadow: 0px 2px 1px rgba(46, 47, 66, 0.08),
       0px 1px 1px rgba(46, 47, 66, 0.16), 0px 1px 6px rgba(46, 47, 66, 0.08);
   }
@@ -225,7 +229,6 @@
 
   .contacts-list-link {
     color: var(--slate, #434455);
-    padding: 16px 0;
     font-size: 12px;
     font-weight: 400;
     line-height: 1.17;
