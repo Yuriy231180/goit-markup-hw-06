@@ -156,6 +156,10 @@
     padding-bottom: 96px;
   }
 
+  .container {
+width: 584рх;
+}
+
   .footer-logotype {
     color: var(--iris, #4d5ae5);
     font-family: "Raleway", sans-serif;
@@ -253,6 +257,7 @@
     letter-spacing: 0.02em;
     color: #ffffff;
     margin-bottom: 16px;
+    text-align: left;
   }
 
   .footer-svg {
@@ -289,6 +294,10 @@
     padding-top: 100px;
     padding-bottom: 100px;
   }
+
+  .container {
+    flex-wrap: wrap;
+}
 
   .footer-logotype {
     color: var(--iris, #4d5ae5);
