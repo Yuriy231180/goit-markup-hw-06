@@ -156,9 +156,9 @@
     padding-bottom: 96px;
   }
 
-  .container {
-width: 584рх;
-}
+  .footer-container {
+    max-width: 584рх;
+  }
 
   .footer-logotype {
     color: var(--iris, #4d5ae5);
@@ -296,8 +296,8 @@ width: 584рх;
   }
 
   .container {
-    flex-wrap: wrap;
-}
+    flex-wrap: nowrap;
+  }
 
   .footer-logotype {
     color: var(--iris, #4d5ae5);
